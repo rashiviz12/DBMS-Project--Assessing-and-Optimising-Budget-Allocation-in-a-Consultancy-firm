@@ -3,13 +3,13 @@ The system will manage and optimize budget allocation across departments and pro
 
 Concepts Used:
 
-Relational Database Model
-Entity Relationship Diagram
-Cardinality Constraints
-Total and Partial Participation
-Weak and Strong Entity
-Normalisation (upto BCNF)
-SQL Queries (DDL,DML,TCL)
+1. Relational Database Model,
+2. Entity Relationship Diagram,
+3. Cardinality Constraints,
+4. Total and Partial Participation,
+5. Weak and Strong Entity,
+6. Normalisation (upto BCNF),
+7. SQL Queries (DDL,DML,TCL)
 -CREATE
 -INSERT
 -DELETE
@@ -26,3 +26,4 @@ SQL Queries (DDL,DML,TCL)
 -DISTINCT
 -ORDER BY
 -GROUP BY
+8. Power BI (for visualisation)
